@@ -5,4 +5,4 @@ Pytorch Implemetation:
    [Arkadip Ghosh, 2024, September. SpotFake: A Multi-modal Framework for Fake News Detection. In 2024 IEEE Fifth International Conference on Multimedia Big Data (BigMM) (pp. 39-47). IEEE.]
 
 *2.* MVAE: Multimodal Variational Autoencoder for Fake News Detection
-[Khattar, D., Goud, J.S., Gupta, M. and Varma, V., 2019, May. Mvae: Multimodal variational autoencoder for fake news detection. In The World Wide Web Conference (pp. 2915-2921).]
+[Arkadip Ghosh, 2024, September. Mvae: Multimodal variational autoencoder for fake news detection. In The World Wide Web Conference (pp. 2915-2921).]
